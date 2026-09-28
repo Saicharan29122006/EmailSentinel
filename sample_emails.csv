@@ -1,0 +1,21 @@
+email_id,timestamp,sender,receiver,subject
+E001,2026-09-01 09:15:00,alice@company.com,bob@company.com,Project Meeting
+E002,2026-09-01 09:30:00,bob@company.com,alice@company.com,Re: Project Meeting
+E003,2026-09-01 10:00:00,alice@company.com,charlie@company.com,Project Report
+E004,2026-09-01 10:15:00,david@company.com,alice@company.com,System Update
+E005,2026-09-01 11:00:00,alice@company.com,bob@company.com,Task Assignment
+E006,2026-09-01 11:30:00,charlie@company.com,bob@company.com,Report Review
+E007,2026-09-01 12:00:00,bob@company.com,david@company.com,Meeting Schedule
+E008,2026-09-02 09:00:00,alice@company.com,bob@company.com,Daily Update
+E009,2026-09-02 09:20:00,alice@company.com,charlie@company.com,Security Report
+E010,2026-09-02 10:00:00,david@company.com,bob@company.com,Server Status
+E011,2026-09-02 10:30:00,bob@company.com,alice@company.com,Re: Server Status
+E012,2026-09-02 11:00:00,charlie@company.com,alice@company.com,Project Discussion
+E013,2026-09-02 11:30:00,alice@company.com,bob@company.com,Project Update
+E014,2026-09-02 12:00:00,david@company.com,charlie@company.com,Database Report
+E015,2026-09-03 09:15:00,alice@company.com,bob@company.com,Weekly Meeting
+E016,2026-09-03 09:45:00,bob@company.com,charlie@company.com,Task Review
+E017,2026-09-03 10:15:00,charlie@company.com,bob@company.com,Task Completed
+E018,2026-09-03 10:45:00,alice@company.com,david@company.com,System Report
+E019,2026-09-03 11:15:00,david@company.com,bob@company.com,Security Update
+E020,2026-09-03 11:45:00,alice@company.com,bob@company.com,Final Report
